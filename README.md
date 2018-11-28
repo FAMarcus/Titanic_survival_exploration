@@ -10,6 +10,12 @@ Este programa ensina como se tornar um engenheiro de aprendizado de máquina e a
 ## Projetos:
 Esta seção apresenta os projetos que desenvolvi no curso da Udacity. 
 
+### [Titanic Survival Exploration](https://github.com/FAMarcus/Titanic_survival_exploration)
+
+**Conceitos básicos de Machine Learning**
+
+Criar uma função de decisão para tentar prever os sobreviventes do desastre de 1912 do Titanic baseado nos atributos dos passageiros, como sexo e idade. Começa com um algoritmo simples e aumenta sua complexidade até conseguir prever os sobreviventes com 80% de acurácia.
+
 ### [Prevendo o preço dos imóveis residenciais em Boston.](https://github.com/FAMarcus/Boston_housing)
 
 **Avaliação do modelo e Validação**
@@ -23,12 +29,6 @@ Projeto avaliado pela Udacity.
 
 Neste projeto, o Python é utilizado para explorar dados relacionados aos sistemas de compartilhamento de bicicletas nas três maiores cidades dos Estados Unidos: Chicago, Nova Iorque e Washington. O código escrito importa dados e responde a perguntas interessantes sobre eles, por meio da computação de estatísticas descritivas.
 Projeto avaliado pela Udacity.
-
-### [Titanic Survival Exploration](https://github.com/FAMarcus/Titanic_survival_exploration)
-
-**Conceitos básicos de Machine Learning**
-
-Criar uma função de decisão para tentar prever os sobreviventes do desastre de 1912 do Titanic baseado nos atributos dos passageiros, como sexo e idade. Começa com um algoritmo simples e aumenta sua complexidade até conseguir prever os sobreviventes com 80% de acurácia.
 
 ## Projetos a concluir
 
