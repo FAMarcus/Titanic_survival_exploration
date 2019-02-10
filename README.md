@@ -21,6 +21,8 @@ Arquivos:
 
 * **titanic_survival_exploration_2.ipynb** - Este é um projeto extra-curricular que escrevi para o concurso de Data Science da Kaggle [2]. Depois de escrito, percebi que o arquivo ficou com aspecto de um tutorial básico para Ciência de Dados. Eu mesclei conhecimento do curso da Udacity com o tutorial do Paulo Vasconcellos[3], este último é um tutorial completo para iniciantes em Ciência de Dados, foi onde aprendi a submeter um projeto para Keggle. 
 
+**Referências:**
+
 [1] - https://www.udacity.com/
 
 [2] - https://www.kaggle.com/c/titanic
