@@ -31,6 +31,7 @@ Arquivos:
 
 [3] - https://paulovasconcellos.com.br/competicao-kaggle-titanic-tutorial-5b11993774f7
 
+---
 ### [Prevendo o preço dos imóveis residenciais em Boston.](https://github.com/FAMarcus/Boston_housing)
 
 **Avaliação do modelo e Validação**
